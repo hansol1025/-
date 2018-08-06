@@ -1,2 +1,2 @@
-# With-Bot-Hyunsol
+# 현봇
 윗 봇 테스트 버전
